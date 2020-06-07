@@ -1,0 +1,6 @@
+== AWS CLI
+aws-cli/2.0.19 Python/3.8.3 Linux/4.19.84-microsoft-standard botocore/2.0.0dev23
+== Docker
+Docker version 19.03.8, build afacb8b7f0
+== Terraform
+Terraform v0.12.26
